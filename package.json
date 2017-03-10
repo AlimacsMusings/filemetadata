@@ -1,0 +1,27 @@
+{
+  "name": "filemetadata",
+  "version": "1.0.0",
+  "description": "Free Code Camp's back end certificate project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlimacsMusings/filemetadata.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "A McGreavy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlimacsMusings/filemetadata/issues"
+  },
+  "homepage": "https://github.com/AlimacsMusings/filemetadata#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "multer": "^1.3.0",
+    "path": "^0.12.7"
+  }
+}
